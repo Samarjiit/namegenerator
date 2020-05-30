@@ -9,5 +9,6 @@ a react app to generate startup names
 
 ## Special Credits
 
-thanks [@MadhavBahlMD] for help me in teaching react and building startup-name-generator.
-Spcial thanks to [@rstacruz](https://github.com/rstacruz/startup-name-generator) for making the method.
+thanks @MadhavBahlMD for help me in teaching react and building startup-name-generator.
+
+Special thanks to [@rstacruz](https://github.com/rstacruz/startup-name-generator) for making the method.
